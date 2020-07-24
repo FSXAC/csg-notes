@@ -1,3 +1,7 @@
+---
+title: CSG Notes
+author: Muchen He
+---
 
 # CSG Notes
 
@@ -6,5 +10,3 @@
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
-
-
