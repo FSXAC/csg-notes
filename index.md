@@ -14,5 +14,7 @@ author: Muchen He
 - [Week 28](w28)
 - [Week 29](w29)
 - [Week 30](w30)
+- [Week 31](w31)
+- [Week 32](w32)
 
 
